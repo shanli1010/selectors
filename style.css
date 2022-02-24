@@ -10,10 +10,10 @@
 .top-right {
   position: absolute;
   top: 8px;
-  right: 16px;
+  right: 100px;
   width: 600px;
   margin: 0 auto;
-  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   font-style: italic;
   font-weight: 100;
   font-variant-ligatures: normal;
@@ -24,10 +24,10 @@
 .bottom-right {
   position: absolute;
   bottom: 8px;
-  right: 16px;
+  right: 100px;
   width: 600px;
   margin: 0 auto;
-  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   font-style: italic;
   font-weight: 100;
   font-variant-ligatures: normal;
