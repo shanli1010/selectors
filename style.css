@@ -46,6 +46,7 @@ display: flex;
   font-size: 1rem;
   letter-spacing: 1px;
   align-items: left;
+  color: white;
 
 }
 
@@ -56,4 +57,5 @@ p::first-letter {
   font-weight: 100;
   font-variant-ligatures: normal;
   letter-spacing: 1px;
+  color: white;
 }
