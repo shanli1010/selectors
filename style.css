@@ -45,3 +45,12 @@ p {
   font-size: 2rem;
   letter-spacing: 1px;
 }
+
+p::first-letter {
+  font-size:4rem
+  font-family: "Helvetica Neue", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-variant-ligatures: normal;
+  letter-spacing: 1px;
+}
